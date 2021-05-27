@@ -1,0 +1,93 @@
+body{
+    font-family: Inter,sans-serif;
+}
+.remotelogo{
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 40px;
+    height: 25px;
+}
+.navigation_primary{
+    display:inline-flex; 
+}
+.spacing{
+    margin: 20px;
+    color:black;
+    
+}
+.nav_spacing{
+   text-align: center;
+   position: fixed;
+   top: 40px;
+   left: 650px;
+   float: left;
+}
+
+.remote_span{
+font-size: 35px;
+}
+
+.spansize{
+    font-size: 35px ;
+}
+h1{
+    font-size: 60px;
+}
+.backgroundcolor{
+    background-color: blue;
+    color: white;
+    height: 260px;
+    
+}
+.text_align{
+    text-align:center;
+    
+}
+#radio{
+    margin-left: 130px;
+    height: 30px;
+    width: 30px;
+}
+.annually-top{
+    margin-top: 50px;
+}
+.pay-text{
+    vertical-align: super;
+    font-size: 20px;
+}
+.startup_pricing{
+    margin-left: 150px;
+}
+table,td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding:10px;
+    border-left: none;
+    border-right:none ;
+}
+#global_busines{
+    text-align: center;
+}
+#global_busines h2{
+    color:navy;
+    font-size: 40px;
+}
+#global_busines span{
+    color: purple;
+    font-size: 15px;
+}
+#build_team{
+    text-align: center;
+    background-color:royalblue;
+    height: 250px;
+    margin-top: 250px;
+    padding-top: 125px;
+}
+#build_team h2{
+    font-size: 40px;
+}
+#build_team a{
+    font-size: 17px;
+    color: white;
+}
+
